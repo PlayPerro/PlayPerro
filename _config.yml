@@ -2,4 +2,5 @@ name: PlayPerro
 markdown: kramdown
 
 collections:
-- projects
+  projects:
+    output: true
