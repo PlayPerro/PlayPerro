@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 title: "They're Staring at You"
 date: 2015
 ---
