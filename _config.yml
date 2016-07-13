@@ -1,2 +1,5 @@
 name: PlayPerro
 markdown: kramdown
+
+collections:
+- projects
