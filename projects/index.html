@@ -3,9 +3,9 @@ layout: default
 title: PlayPerro Projects
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="project">
+	<ul class="pages">
 
-	  {% for project in site.projects %}
-	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% for page in site.pages %}
+	    <li><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
 	  {% endfor %}
 	</ul>
