@@ -1,4 +1,6 @@
 ---
+title: PlayPerro
+subtitle: Indie Game Experiments and Prototypes
 layout: default
 ---
 
