@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-subtitle: I am a smart heading.
-desc: About me.
+subtitle: Experiments and prototypes by Tobiah Zarlez
+desc: About PlayPerro
 permalink: /about/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
+<div class="lead lead-about">PlayPerro is an independent game development company created by [Tobiah Zarlez](http://www.tobiahz.com)
 </div>
 
 {::nomarkdown} 
@@ -17,62 +17,22 @@ permalink: /about/
 </figure>
 {:/}
 
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
+Tobiah is a independent mobile game developer from the San Fransisco Bay Area. He co-founded Yobonja with Angelo Yazar in late 2009 just after graduating college. Yobonja is best known for Blast Monkeys, a physics based puzzle game. Blast Monkeys has earned more than 12 million downloads since its release and was the #1 free Android game during the Summer of 2011.
+
+In 2013 Tobiah started working for Microsoft as a Technical Evangelist.
 
 ---
 
-## Quem fata quamvis
+## PlayPerro's Goals
 
-Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
-sublimis conde!
+PlayPerro was created to experiment and prototype new and unique game designs.
 
-Captum ligno nepotum arisque dimittere
-[maternaque](http://estumectat.net/fugae). Quae maior Typhoeus ramis huius aura
-deprendit instat hirsuta. Miserrima inque: tibi qua, ultimus a Agaue vallibus
-dictos.
+## Links
 
-1. Perseus est
-2. O Osiris accedat
-3. Repetita usum
+Twitter: <a title="PlayPerro Twitter" href="http://twitter.com/PlayPerro" target="_blank">http://twitter.com/PlayPerro</a>
+Facebook: <a title="PlayPerro Facebook" href="http://www.facebook.com/PlayPerro" target="_blank">http://www.facebook.com/PlayPerro</a>
 
-Nobis esse, *ut* spe, deducunt albentes, quoque, saxo cepit et quid gerebant
-est. Magnae haec quod, iugeribus gemmata. Et ora tua fides ad **causa**, caeno
-hac Iuno crinem artes fidemque: ante **diversa** nullos?
-
-## Si leti tegit undis quam
-
-Lorem markdownum caesariem aequore virtus nunc vittas, nec perosus urbem est:
-verba est eripere quater obvertit geminaverat amore. Ac freto. Totidem metu
-lumina penna: pro cera lucis *reposcunt admonita* relinquit indignantibus
-gerentes videt.
-
-Et **mixtos alium** adiacet ordine, vidisse nurus: vestem. *Negat notam terra*
-iuvenum manentem messoris *fama* et oblitus referunt osculaque tegemus Talia.
-Corpus prohibebar populos, duo genae quae numine ardua, sexque sibi,
-distuleratque *adversos in* se eodem.
-
-- Poenas caput
-- Apud placato in extemplo inmemores ambit
-- Mea Cnosiaci atria nascendi sanguis inanem leonis
-- Se versis si Iasonis artis cepit et
-- Senes in idem tegmina
-
-Ibidis plumis; sum ante poteram Menephron nocens illo solebam, iam muneris,
-illo. Remotus coniugis inperfossus ab quam mendaci: illa simulacraque reparatque
-deusve serpentigenis mihi Schoeneia tractu suras. Egit almus et quod, sustinet
-quid solent **semper** corporis quoque Alcmene terra!
-
----
-
-## Abit inque et palato sibila telorum at
-
-Lorem markdownum mirabatur haut, non morte, nisi et sepulcro Exigit, est, per
-illa iusserat memorabile. Pater damus multa, in lucosque carent oculis adsum
-miseris. Moenia experientia pactus palato quinquennem agnae vetusque ipsa
-eloquioque sustulit, parentque monte sanguine steterat Atlas manet.
+Tobiah's Blog: <a title="Tobiah Zarlez Blog" href="http://www.TobiahZ.com" target="_blank">http://www.TobiahZ.com</a>
 
 </div>
 
