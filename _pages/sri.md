@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Repair Inc.
-permalink: projects/staring/
+permalink: projects/sri/
 subtitle: Space Repair Inc.
 ---
 
