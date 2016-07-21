@@ -78,8 +78,7 @@
 @include mq-up(md) {
   .site-logo {
     margin-left: $spacer0;
-    width: 3.5rem;
-    height: 3.5rem;
+    height: 5rem;
   }
 
   .site-nav {
@@ -97,6 +96,7 @@
 
   .site-title {
     float: left;
+    width: 20%;
     text-align: inherit;
     margin-bottom: $spacer0;
   }
