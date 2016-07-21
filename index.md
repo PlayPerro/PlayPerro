@@ -11,15 +11,15 @@ PlayPerro is an independent game development company created by [Tobiah Zarlez](
 
 ---
 
-## PlayPerro's Goals
+#### PlayPerro's Goals
 
 PlayPerro was created to experiment and prototype new and unique game designs.
 
-## Links
+#### Links
 
-[Twitter](http://twitter.com/PlayPerro)
-[Facebook](http://www.facebook.com/PlayPerro)
-[Tobiah's Blog](http://www.TobiahZ.com)
+- [Twitter](http://twitter.com/PlayPerro)
+- [Facebook](http://www.facebook.com/PlayPerro)
+- [Tobiah's Blog](http://www.TobiahZ.com)
 
 </div>
 
