@@ -1,6 +1,0 @@
-name: PlayPerro
-markdown: kramdown
-
-collections:
-  projects:
-    output: true
