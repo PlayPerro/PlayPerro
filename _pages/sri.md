@@ -13,7 +13,7 @@ The team needs your help. Can you get the team to where they need to be? To fix 
 
 Try to get them to the goals in the fewest number of moves! Featuring 25 introductory puzzles, and 50 more in the unlocked full game. That's 75 unique puzzles! With more to come in future updates.
 
-#Available now on iOS, Google Play, and OUYA.
+# Available now on iOS, Google Play, and OUYA. #
 
 [Google Play](https://play.google.com/store/apps/details?id=com.playperro.sri)
 
@@ -21,7 +21,7 @@ Try to get them to the goals in the fewest number of moves! Featuring 25 introdu
 
 <iframe id="ouyawidget" style="overflow: hidden;" src="http://www.ouyawidgets.com/widgetland.php?id=com.playperro.sri&amp;theme=ui-start" width="520" height="235" frameborder="0"></iframe>
 
-#Screenshots
+# Screenshots #
 
 <img src="{{ site.baseurl }}/projects/sri/1-menu-1024x576.jpg">
 
@@ -35,7 +35,7 @@ Try to get them to the goals in the fewest number of moves! Featuring 25 introdu
 
 <img src="{{ site.baseurl }}/projects/sri/6-winscreen-1024x576.jpg">
 
-#Credits
+# Credits #
 
 - Developed and designed by Tobiah Marks.
 
