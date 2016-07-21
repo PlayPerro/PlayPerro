@@ -23,15 +23,15 @@ Try to get them to the goals in the fewest number of moves! Featuring 25 introdu
 
 #Screenshots
 
-<img src="{{ site.baseurl }}/projects/sri/1-menu.jpg">
+<img src="{{ site.baseurl }}/projects/sri/1-menu-1024x576.jpg">
 
-<img src="{{ site.baseurl }}/projects/sri/2-zone.jpg">
+<img src="{{ site.baseurl }}/projects/sri/2-zone-1024x576.jpg">
 
-<img src="{{ site.baseurl }}/projects/sri/3-d25.jpg">
+<img src="{{ site.baseurl }}/projects/sri/3-d25-1024x576.jpg">
 
-<img src="{{ site.baseurl }}/projects/sri/4-e3.jpg">
+<img src="{{ site.baseurl }}/projects/sri/4-e3-1024x576.jpg">
 
-<img src="{{ site.baseurl }}/projects/sri/5-d22.jpg">
+<img src="{{ site.baseurl }}/projects/sri/5-d22-1024x576.jpg">
 
 <img src="{{ site.baseurl }}/projects/sri/6-winscreen-1024x576">
 
