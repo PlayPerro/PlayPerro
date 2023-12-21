@@ -1,5 +1,5 @@
 # PlayPerro
-Experiments and prototypes by Tobiah Zarlez
+Experiments and prototypes by Avin Zarlez
 
 [Visit the website](http://www.playperro.com)
 
