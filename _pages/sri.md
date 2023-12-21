@@ -37,7 +37,7 @@ Try to get them to the goals in the fewest number of moves! Featuring 25 introdu
 
 # Credits #
 
-- Developed and designed by Tobiah Marks.
+- Developed and designed by Avin Zarlez.
 
 - Published on OUYA by Yobonja.
 

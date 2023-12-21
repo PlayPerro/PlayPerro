@@ -3,15 +3,15 @@
 # Site settings
 title: PlayPerro               # used for the html title of every page
 desc: >
-  Indie Game Dev Experiments by Tobiah Zarlez
+  Indie Game Dev Experiments by Avin Zarlez
 
 url: http://www.playperro.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: Tobiah@PlayPerro.com
-author: Tobiah Zarlez
+email: 4392252+AvinZarlez@users.noreply.github.com
+author: Avin Zarlez
 twitter_username: PlayPerro
 github_username: PlayPerro
 github_source: playperro.github.io
@@ -35,7 +35,7 @@ navigation:
     desc: PlayPerro Projects
   - title: About
     url: /about/
-    desc: Learn about PlayPerro and Tobiah Zarlez
+    desc: Learn about PlayPerro and Avin Zarlez
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
